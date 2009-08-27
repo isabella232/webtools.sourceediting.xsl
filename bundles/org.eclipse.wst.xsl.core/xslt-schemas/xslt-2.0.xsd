@@ -112,8 +112,7 @@ of problems processing the schema using various tools
     so the Schema for schemas needs to be imported
 -->
   
-<xs:import namespace="http://www.w3.org/2001/XMLSchema"
-                  schemaLocation="http://www.w3.org/2001/XMLSchema.xsd"/>
+<xs:import namespace="http://www.w3.org/2001/XMLSchema"/>
 
 <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <xs:annotation>
